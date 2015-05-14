@@ -1,6 +1,6 @@
 ---
-title: Post
-subtitle: With reliable info & reviews
+title: Efficient
+subtitle: See reliable info and reviews
 layout: default
 modal-id: 6
 date: 2014-07-15
