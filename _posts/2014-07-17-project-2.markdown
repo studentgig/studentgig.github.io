@@ -1,6 +1,6 @@
 ---
-title: Home
-subtitle: Posts from friends
+title: Relevant
+subtitle: Only see posts that matter to you
 layout: default
 modal-id: 2
 date: 2014-07-17
