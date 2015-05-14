@@ -2,63 +2,63 @@ url: https://studentgig.github.io
 baseurl: 
 
 # Site settings
-title: StudentGig
+title: StudentGig.net
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503  
+  primary: 00C4C4
+  secondary: 03D6D6  
   secondary-dark: 333
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Arun Das
   pic: 1
-  position: Lead Designer
+  position: Web Developement
   social:
     - title: twitter
       url: #
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://www.facebook.com/arundas1409?fref=ts
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Xiao Huang
+  pic: 2
+  position: Design
   social:
     - title: twitter
       url: #
     - title: facebook
+      url: https://www.facebook.com/HenryXiaoHuang
+    - title: linkedin
       url: #
-    - title: google-plus
+
+- name: Taylor Meeks
+  pic: 3
+  position: iOS Developement
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: https://www.facebook.com/taylor.meeks.16
+    - title: linkedin #google-plus
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: #
   - title: facebook
-    url:
+    url: https://www.facebook.com/studentgigmarketplace
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: #
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: #
   - title: github
-    url: http://github.com/jekyll
+    url: #
 
 # Postal address (add as many lines as necessary)
 address:
